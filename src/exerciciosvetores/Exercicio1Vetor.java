@@ -27,8 +27,9 @@ public class Exercicio1Vetor {
 			if (caiu == false) 
 				System.out.println("O numero " +item+ " não foi encontrado");
 			
-			
+			 leia.close();
 		}
 
 	}
 
+    
