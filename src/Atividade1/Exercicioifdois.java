@@ -1,3 +1,4 @@
+
 package Atividade1;
 
 import java.util.Scanner;
