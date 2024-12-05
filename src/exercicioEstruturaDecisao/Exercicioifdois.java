@@ -1,5 +1,4 @@
-
-package Atividade1;
+package exercicioEstruturaDecisao;
 
 import java.util.Scanner;
 
